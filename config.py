@@ -1,0 +1,5 @@
+WALLETS_TO_GENERATE_COUNT = 1
+
+ENDLESS_MENU = True
+
+GENERATED_WALLETS_JSON_PATH = "hhh/generated_wallets.json"
