@@ -1,6 +1,3 @@
-from loguru import logger
-from progress.bar import IncrementalBar
-
 from config import GENERATED_WALLETS_JSON_PATH, WALLETS_TO_GENERATE_COUNT
 from wallet import Wallet
 from generate_wallet import GenerateWallet
